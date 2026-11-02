@@ -6,3 +6,4 @@ function nomedafuncao(nome) {
 nomedafuncao('Milene');
 nomedafuncao('Nicole');
 nomedafuncao('Baby');
+nomedafuncao('Beca');

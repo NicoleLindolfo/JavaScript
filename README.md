@@ -1,1 +1,3 @@
 # JavaScript
+# Iniciante
+Aprendendo JavaScript 
